@@ -1,0 +1,14 @@
+{
+  "test1": {
+    "going_from" : "MEL",
+    "going_to": "JFK",
+    "auto_going_to": "JFK",
+    "date" :"23/01/2023"
+  },
+    "test2": {
+    "going_from" : "BOM",
+    "going_to": "MEL",
+    "auto_going_to": "MEL",
+    "date" :"25/01/2023"
+  }
+}

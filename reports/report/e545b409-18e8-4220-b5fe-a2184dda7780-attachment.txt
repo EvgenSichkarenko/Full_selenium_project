@@ -1,0 +1,3 @@
+[32mINFO    [0m logger:launch_page_yatro.py:46 Clicked on location from
+[32mINFO    [0m logger:launch_page_yatro.py:54 Clicked on location to
+[32mINFO    [0m logger:launch_page_yatro.py:66 Pick up the date
