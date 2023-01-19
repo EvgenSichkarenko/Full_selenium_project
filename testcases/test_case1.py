@@ -1,11 +1,9 @@
-import logging
 import allure
 import pytest
 import softest
 
 from page.launch_page_yatro import LaunchPage
 import time
-from selenium.webdriver.common.by import By
 from utilitize.utils import Utilz
 from ddt import ddt, data, unpack, file_data
 
