@@ -1,7 +1,6 @@
 import allure
 import pytest
 import softest
-
 from page.launch_page_yatro import LaunchPage
 import time
 from utilitize.utils import Utilz
