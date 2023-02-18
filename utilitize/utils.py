@@ -4,7 +4,6 @@ import logging
 class Utilz(softest.TestCase):
     def assert_item_in_list(self, lists, value):
         for stop in lists:
-            print(f"Text is " + stop.text)
             self.soft_assert(self.assertEqual, stop.text, value)
             if stop.text == value:
                 print("passed")
